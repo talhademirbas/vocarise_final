@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "527996106083",
+    "project_id": "vocarise-universe",
+    "storage_bucket": "vocarise-universe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527996106083:android:29b07cba1d554718978f56",
+        "android_client_info": {
+          "package_name": "com.example.vocarise.vocarise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENOQj6suVG_VHkmgvRiHo5AS4Zrcy4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527996106083:android:1e7e090cfa0580f4978f56",
+        "android_client_info": {
+          "package_name": "com.example.vocarise_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENOQj6suVG_VHkmgvRiHo5AS4Zrcy4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527996106083:android:efa4a2f12f2c711d978f56",
+        "android_client_info": {
+          "package_name": "com.vocarise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENOQj6suVG_VHkmgvRiHo5AS4Zrcy4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
